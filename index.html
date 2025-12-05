@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta viewport="width=device-width, initial-scale=1.0">
+    <title>Ekin Su Akpınar</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;500;600&display=swap" rel="stylesheet">
+
+    <!-- Font Awesome (ikonlar için) -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+    <style>
+        body {
+            margin: 0;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: #0a0a0a;
+            font-family: "Inter", sans-serif;
+            color: #fff;
+        }
+
+        .box {
+            padding: 45px 70px;
+            border-radius: 14px;
+            background: transparent;
+            text-align: center;
+        }
+
+        .title {
+            font-size: clamp(28px, 7vw, 42px); /* Mobilde büyür */
+            font-weight: 600;
+            color: #c21616;
+            margin-bottom: 18px;
+        }
+
+        .insta {
+            font-size: clamp(34px, 10vw, 55px); /* Mobilde daha büyük */
+            color: #c21616;
+            transition: 0.25s ease;
+            cursor: pointer;
+        }
+
+        .insta:hover {
+            transform: scale(1.12);
+        }
+
+        /* Mobil optimize padding */
+        @media (max-width: 600px) {
+            .box {
+                padding: 25px 40px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="box">
+        <div class="title">Ekin Su Akpınar</div>
+
+        <a href="https://instagram.com/grandzeit"
+           target="_blank"
+           style="text-decoration:none;">
+            <i class="fab fa-instagram insta"></i>
+        </a>
+    </div>
+</body>
+</html>
