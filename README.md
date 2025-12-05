@@ -1,15 +1,15 @@
-# Minimalistisches Webprojekt
+# Persönliches Mini-Webprojekt
 
-Dieses Repository enthält eine sehr einfache, minimalistische Webseite, die als persönliches Design-Experiment erstellt wurde.  
-Das Ziel dieses Projekts ist es, eine einseitige, klare und reduzierte Darstellung mit schwarzem und roten Farbakzenten zu gestalten.  
+Dieses Projekt ist eine kleine, persönliche Webseite, die aus emotionaler Motivation entstanden ist.  
+Sie wurde erstellt, um jemand Besonderem auf eine stille und kreative Weise eine Botschaft zu senden – ohne direkten Druck, ohne Erwartungen.  
 
-Die Seite wurde mit HTML und CSS umgesetzt und dient hauptsächlich als Übung in:
+Die Seite ist bewusst minimalistisch gestaltet und soll einfach nur ein leiser Hinweis sein, dass jemand an sie gedacht hat.  
+Es ist ein kleines, digitales Zeichen von Interesse und Zuneigung.
+
+Technisch gesehen dient das Projekt außerdem als Übung in:
 - minimalistischem Webdesign  
 - responsivem Layout  
-- Typografie und Farbharmonie  
-- Bereitstellung über GitHub Pages  
+- GitHub Pages Deployment  
 
-Die Webseite ist öffentlich zugänglich unter:  
+Die Webseite ist erreichbar unter:  
 https://grandzeit.github.io/
-
-Dieses Projekt hat keinen kommerziellen Zweck und wird ausschließlich zu Lern- und Demonstrationszwecken verwendet.
